@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "sops/my_personal_sop/my_personal_sop.html",
+    "href": "sops/my_personal_sop/my_personal_sop.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Figure 1: SOP Header Image"
+  },
+  {
+    "objectID": "sops/my_personal_sop/my_personal_sop.html#bottom-line",
+    "href": "sops/my_personal_sop/my_personal_sop.html#bottom-line",
+    "title": "Overview",
+    "section": "Bottom line",
+    "text": "Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I'm not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brad Cannell’s Wiki",
+    "section": "",
+    "text": "One of the first things I’ll need to do to create this Wiki is convert some of my old Word document files to markdown. Melissa Van Bussel has a video from Posit::conf(2023) with some tips for doing this, includiing using rmarkdown::pandoc_convert().\n\nrmarkdown::pandoc_convert(\n  '/Users/bradcannell/Desktop/My Personal SOP.docx', \n  to = 'markdown',\n  output = here::here(\"sops\", \"my_personal_sop.qmd\")\n)\n\nI still need to do a little bit of manual cleaning afterward, but not too bad."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.\n\nDocument your decision in your Applications Spreadsheet.\nYou have SOPs in SharePoint.\nYou have SOPs in Apple Notes."
+  }
+]

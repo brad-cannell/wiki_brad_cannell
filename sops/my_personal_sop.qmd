@@ -1,0 +1,53 @@
+[Overview [1](#overview)](#overview)
+
+[Formatting [1](#formatting)](#formatting)
+
+[Use ClickUp or Teams?
+[1](#use-clickup-or-teams)](#use-clickup-or-teams)
+
+[Which technology(ies) to use?
+[1](#which-technologyies-to-use)](#which-technologyies-to-use)
+
+[Bottom line [1](#bottom-line)](#bottom-line)
+
+# Overview
+
+Stuff that is really just intended for me. At least for now.
+
+# Formatting
+
+Please make sure this document conforms to the [style
+guide](https://uthtmc.sharepoint.com/:w:/r/sites/SPHDallasShared/Shared%20Documents/SOPs/Style%20Guide.docx?d=wc127e988abfa4feda433c1e7de78c4a0&csf=1&web=1&e=SceZlD).
+
+# Use ClickUp or Teams?
+
+I think Teams is going to be the way to go for working with other people
+at UTHealth - even for research. The only downside, really, is that it
+isn't transportable if I leave UTHealth. I need to get over that,
+though. First of all, I might not ever leave UTHealth. Second, even if I
+do, I can take all the files with me pretty easily by copying them over
+to Dropbox in finder. The only thing I might lose are posts and tasks,
+which are relatively easy to re-create.
+
+# Which technology(ies) to use?
+
+I wrote this up in a pretty detailed way in the Technologies section of
+the [Authoring
+SOPs](https://uthtmc.sharepoint.com/:w:/r/sites/SPHCannellResearch/Shared%20Documents/SOPs/Authoring%20SOPs.docx?d=w0b37d1a9a906412dbfc55d9c275c8681&csf=1&web=1&e=Usz9k5)
+SOP.
+
+## Bottom line
+
+-   Use **Word** for
+
+    -   files that need to be shared broadly with others. Especially if
+        those others are outside of UTHealth. For example, manuscripts,
+        grants, and documents for my classes.
+
+    -   Documents that need citations. I\'m not aware of a citation
+        manager that works with OneNote. For example, manuscripts and
+        grants.
+
+-   Use **OneNote** for
+
+    -   Not much

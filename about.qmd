@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+I currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.
+
+-   Document your decision in your [Applications Spreadsheet](https://docs.google.com/spreadsheets/d/12lsQk85PPPy6wWbEOxRBsLxMuWb6MLbiVlSMsH78wv0/edit?gid=1837919921#gid=1837919921).
+-   You have SOPs in [SharePoint](https://uthtmc.sharepoint.com/:f:/r/sites/SPHCannellPrivate/Shared%20Documents/SOPs?csf=1&web=1&e=muarJR).
+-   You have SOPs in [Apple Notes](https://www.icloud.com/notes/0a1fUXlSmNc26diQgM_cdTcEw#SOPs/Wikis/Knowledge_Base).
