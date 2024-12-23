@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.\n\nDocument your decision in your Applications Spreadsheet.\nYou have SOPs in SharePoint.\nYou have SOPs in Apple Notes."
+    "text": "Overview\nI currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.\n\nDocument your decision in your Applications Spreadsheet.\nYou have SOPs in SharePoint.\nYou have SOPs in Apple Notes.\n\n\n\nOn using Quarto\n\n\n\n\n\n\n\nPros\nCons\n\n\n\n\nI’m already really familiar with Quarto.\nI can’t edit the wiki files from my phone. I would have to jot down a quick note in Apple Notes and update the Quarto file later.\n\n\nI can view my SOP when I’m offline by opening the qmd files.\n\n\n\nQuarto works pretty well with mobile by default.\n\n\n\nThe formatting options include almost anything that can be done with CSS and JS, as long as I have the willingness to learn to use them.\n\n\n\nIt looks like it’s possible to integrate ChatGPT. At least on the coding side. I’m not sure about using it on the browser side while searching the wiki.\n\n\n\n\n\n\nQuestions\n\nCan I restrict access to certain pages?"
   },
   {
     "objectID": "index.html",

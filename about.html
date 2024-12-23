@@ -107,8 +107,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#on-using-quarto" id="toc-on-using-quarto" class="nav-link" data-scroll-target="#on-using-quarto">On using Quarto</a></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -132,14 +140,60 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="overview" class="level1">
+<h1>Overview</h1>
 <p>I currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.</p>
 <ul>
 <li>Document your decision in your <a href="https://docs.google.com/spreadsheets/d/12lsQk85PPPy6wWbEOxRBsLxMuWb6MLbiVlSMsH78wv0/edit?gid=1837919921#gid=1837919921">Applications Spreadsheet</a>.</li>
 <li>You have SOPs in <a href="https://uthtmc.sharepoint.com/:f:/r/sites/SPHCannellPrivate/Shared%20Documents/SOPs?csf=1&amp;web=1&amp;e=muarJR">SharePoint</a>.</li>
 <li>You have SOPs in <a href="https://www.icloud.com/notes/0a1fUXlSmNc26diQgM_cdTcEw#SOPs/Wikis/Knowledge_Base">Apple Notes</a>.</li>
 </ul>
+</section>
+<section id="on-using-quarto" class="level1">
+<h1>On using Quarto</h1>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>I’m already really familiar with Quarto.</td>
+<td>I can’t edit the wiki files from my phone. I would have to jot down a quick note in Apple Notes and update the Quarto file later.</td>
+</tr>
+<tr class="even">
+<td>I can view my SOP when I’m offline by opening the qmd files.</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Quarto works pretty well with mobile by default.</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The formatting options include almost anything that can be done with CSS and JS, as long as I have the willingness to learn to use them.</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>It looks like it’s possible to integrate ChatGPT. At least on the coding side. I’m not sure about using it on the browser side while searching the wiki.</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="questions" class="level1">
+<h1>Questions</h1>
+<ul>
+<li>Can I restrict access to certain pages?</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -232,7 +286,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/brad-cannell\.github\.io\/wiki_brad_cannell\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
