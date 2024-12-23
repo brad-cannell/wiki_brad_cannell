@@ -2,8 +2,24 @@
 title: "About"
 ---
 
+# Overview
+
 I currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.
 
 -   Document your decision in your [Applications Spreadsheet](https://docs.google.com/spreadsheets/d/12lsQk85PPPy6wWbEOxRBsLxMuWb6MLbiVlSMsH78wv0/edit?gid=1837919921#gid=1837919921).
 -   You have SOPs in [SharePoint](https://uthtmc.sharepoint.com/:f:/r/sites/SPHCannellPrivate/Shared%20Documents/SOPs?csf=1&web=1&e=muarJR).
 -   You have SOPs in [Apple Notes](https://www.icloud.com/notes/0a1fUXlSmNc26diQgM_cdTcEw#SOPs/Wikis/Knowledge_Base).
+
+# On using Quarto
+
+| Pros | Cons |
+|----|----|
+| I'm already really familiar with Quarto. | I can't edit the wiki files from my phone. I would have to jot down a quick note in Apple Notes and update the Quarto file later. |
+| I can view my SOP when I'm offline by opening the qmd files. |  |
+| Quarto works pretty well with mobile by default. |  |
+| The formatting options include almost anything that can be done with CSS and JS, as long as I have the willingness to learn to use them. |  |
+| It looks like it's possible to integrate ChatGPT. At least on the coding side. I'm not sure about using it on the browser side while searching the wiki. |  |
+
+# Questions
+
+-   Can I restrict access to certain pages?
