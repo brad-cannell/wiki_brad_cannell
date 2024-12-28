@@ -10,8 +10,7 @@ I think Teams is going to be the way to go for working with other people at UTHe
 
 # Which technology(ies) to use?
 
-I wrote this up in a pretty detailed way in the Technologies section of the [Authoring
-SOPs](https://uthtmc.sharepoint.com/:w:/r/sites/SPHCannellResearch/Shared%20Documents/SOPs/Authoring%20SOPs.docx?d=w0b37d1a9a906412dbfc55d9c275c8681&csf=1&web=1&e=Usz9k5) SOP.
+I wrote this up in a pretty detailed way in the Technologies section of the [Authoring SOPs](https://uthtmc.sharepoint.com/:w:/r/sites/SPHCannellResearch/Shared%20Documents/SOPs/Authoring%20SOPs.docx?d=w0b37d1a9a906412dbfc55d9c275c8681&csf=1&web=1&e=Usz9k5) SOP.
 
 ## Bottom line
 
@@ -19,7 +18,7 @@ SOPs](https://uthtmc.sharepoint.com/:w:/r/sites/SPHCannellResearch/Shared%20Docu
 
     -   files that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.
 
-    -   Documents that need citations. I\'m not aware of a citation manager that works with OneNote. For example, manuscripts and grants.
+    -   Documents that need citations. I'm not aware of a citation manager that works with OneNote. For example, manuscripts and grants.
 
 -   Use **OneNote** for
 

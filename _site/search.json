@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "sops/my_personal_sop.html",
-    "href": "sops/my_personal_sop.html",
-    "title": "Overview",
-    "section": "",
-    "text": "Overview [1](#overview)\nFormatting [1](#formatting)\nUse ClickUp or Teams? [1](#use-clickup-or-teams)\nWhich technology(ies) to use? [1](#which-technologyies-to-use)\nBottom line [1](#bottom-line)"
-  },
-  {
-    "objectID": "sops/my_personal_sop.html#bottom-line",
-    "href": "sops/my_personal_sop.html#bottom-line",
-    "title": "Overview",
-    "section": "Bottom line",
-    "text": "Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I'm not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Overview\nI currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.\n\nDocument your decision in your Applications Spreadsheet.\nYou have SOPs in SharePoint.\nYou have SOPs in Apple Notes.\n\n\n\nOn using Quarto\n\n\n\n\n\n\n\nPros\nCons\n\n\n\n\nI’m already really familiar with Quarto.\nI can’t edit the Wiki files from my phone. I would have to jot down a quick note in Apple Notes and update the Quarto file later.\n\n\nI can view my SOP when I’m offline by opening the qmd files.\nIt doesn’t feel like it’s necessarily easy to make quick updates to my SOPs. However, I’m not sure how big of a deal that is. SOPs are meant to evolve over time, but they also probably shouldn’t change often.\n\n\nQuarto works pretty well with mobile by default.\nMaking tables with Markdown syntax isn’t ideal.\n\n\nThe formatting options include almost anything that can be done with CSS and JS, as long as I have the willingness to learn to use them.\n\n\n\nIt looks like it’s possible to integrate ChatGPT. At least on the coding side. I’m not sure about using it on the browser side while searching the wiki.\n\n\n\nI can make edits directly from GitHub (I added this in GitHub)\n\n\n\n\n\n\nQuestions\n\nCan I restrict access to certain pages?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brad Cannell’s Wiki",
-    "section": "",
-    "text": "One of the first things I’ll need to do to create this Wiki is convert some of my old Word document files to markdown. Melissa Van Bussel has a video from Posit::conf(2023) with some tips for doing this, includiing using rmarkdown::pandoc_convert().\n\nrmarkdown::pandoc_convert(\n  '/Users/bradcannell/Desktop/My Personal SOP.docx', \n  to = 'markdown',\n  output = here::here(\"sops\", \"my_personal_sop.qmd\")\n)\n\nI still need to do a little bit of manual cleaning afterward, but not too bad."
-  },
-  {
     "objectID": "sops/my_personal_sop/my_personal_sop.html",
     "href": "sops/my_personal_sop/my_personal_sop.html",
     "title": "Overview",
@@ -39,6 +11,34 @@
     "href": "sops/my_personal_sop/my_personal_sop.html#bottom-line",
     "title": "Overview",
     "section": "Bottom line",
-    "text": "Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I'm not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much"
+    "text": "Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I’m not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Overview\nI currently have my SOPs spread across too many places. I need to decide on a single place to put them and go with it.\n\nDocument your decision in your Applications Spreadsheet.\nYou have SOPs in SharePoint.\nYou have SOPs in Apple Notes.\n\n\n\nOn using Quarto\n\n\n\n\n\n\n\nPros\nCons\n\n\n\n\nI’m already really familiar with Quarto.\nI can’t edit the Wiki files from my phone. I would have to jot down a quick note in Apple Notes and update the Quarto file later.\n\n\nI can view my SOP when I’m offline by opening the qmd files.\nIt doesn’t feel like it’s necessarily easy to make quick updates to my SOPs. However, I’m not sure how big of a deal that is. SOPs are meant to evolve over time, but they also probably shouldn’t change often.\n\n\nQuarto works pretty well with mobile by default.\nMaking tables with Markdown syntax isn’t ideal.\n\n\nThe formatting options include almost anything that can be done with CSS and JS, as long as I have the willingness to learn to use them.\n\n\n\nIt looks like it’s possible to integrate ChatGPT. At least on the coding side. I’m not sure about using it on the browser side while searching the wiki.\n\n\n\nI can make edits directly from GitHub (I added this in GitHub)\n\n\n\n\n\n\nQuestions\n\nCan I restrict access to certain pages?\nHow do I make comments and notes on pages?\n\nYes. Instructions here. Blog post here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brad Cannell’s Wiki",
+    "section": "",
+    "text": "One of the first things I’ll need to do to create this Wiki is convert some of my old Word document files to markdown. Melissa Van Bussel has a video from Posit::conf(2023) with some tips for doing this, includiing using rmarkdown::pandoc_convert().\n\nrmarkdown::pandoc_convert(\n  '/Users/bradcannell/Desktop/My Personal SOP.docx', \n  to = 'markdown',\n  output = here::here(\"sops\", \"my_personal_sop.qmd\")\n)\n\nI still need to do a little bit of manual cleaning afterward, but not too bad."
+  },
+  {
+    "objectID": "sops/task_management/task_management.html",
+    "href": "sops/task_management/task_management.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Figure 1: Task Management Header Image"
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#planner-notifications",
+    "href": "sops/task_management/task_management.html#planner-notifications",
+    "title": "Overview",
+    "section": "Planner notifications",
+    "text": "Planner notifications\nIf you haven’t already done so, will you please turn on notifications for planner? Here is a link with information on how to adjust planner notifications. The idea is that we can type comments related to tasks to each other directly in planner. With notifications on, the comments will be emailed to you as well."
   }
 ]

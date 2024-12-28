@@ -24,3 +24,5 @@ I currently have my SOPs spread across too many places. I need to decide on a si
 # Questions
 
 -   Can I restrict access to certain pages?
+-   How do I make comments and notes on pages?
+    -   Yes. [Instructions here](https://quarto.org/docs/output-formats/html-basics.html#commenting). [Blog post here](https://thedatasavvycorner.com/blogs/17-quarto-comments).

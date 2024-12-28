@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: sops/task_management/task_management.qmd
+        text: Task Management
 
 format:
   html:
