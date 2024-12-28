@@ -13,13 +13,13 @@ I currently have my SOPs spread across too many places. I need to decide on a si
 # On using Quarto
 
 | Pros | Cons |
-|----|----|
+|------------------------------------|------------------------------------|
 | I'm already really familiar with Quarto. | I can't edit the Wiki files from my phone. I would have to jot down a quick note in Apple Notes and update the Quarto file later. |
 | I can view my SOP when I'm offline by opening the qmd files. | It doesn't feel like it's necessarily easy to make quick updates to my SOPs. However, I'm not sure how big of a deal that is. SOPs are meant to evolve over time, but they also probably shouldn't change often. |
 | Quarto works pretty well with mobile by default. | Making tables with Markdown syntax isn't ideal. |
 | The formatting options include almost anything that can be done with CSS and JS, as long as I have the willingness to learn to use them. |  |
 | It looks like it's possible to integrate ChatGPT. At least on the coding side. I'm not sure about using it on the browser side while searching the wiki. |  |
-| I can make edits directly from GitHub (I added this in GitHub)| |
+| I can make edits directly from GitHub (I added this in GitHub) |  |
 
 # Questions
 

@@ -5,6 +5,8 @@ title: "Brad Cannell's Wiki"
 One of the first things I'll need to do to create this Wiki is convert some of my old Word document files to markdown. Melissa Van Bussel has a [video](https://www.youtube.com/@ggnot2) from Posit::conf(2023) with some tips for doing this, includiing using `rmarkdown::pandoc_convert()`.
 
 ```{r}
+#| eval: false
+
 rmarkdown::pandoc_convert(
   '/Users/bradcannell/Desktop/My Personal SOP.docx', 
   to = 'markdown',
