@@ -1,4 +1,4 @@
-# Task Management
+# Task Management {sec-task-management}
 
 ![Task Management Header Image](https://miro.medium.com/v2/resize:fit:1000/1*8G1vA7egoxrL4Bb7RAgnPQ.jpeg){#fig-task-management-header-img}
 

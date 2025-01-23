@@ -1,4 +1,4 @@
-# Writing SOPs
+# Writing SOPs {sec-writing-sops}
 
 ![SOP Header Image](sop.png){#fig-sop-header-img}
 
@@ -22,3 +22,4 @@ I wrote this up in a pretty detailed way in the Technologies section of the [Aut
 
 ## Writing SOPs in Quarto
 
+<!-- Add a link the page in the Test Quarto book about converting Word docuemnts -->

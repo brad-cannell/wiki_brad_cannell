@@ -1,4 +1,4 @@
-# Authoring Manuscripts
+# Authoring Manuscripts {sec-authoring-manuscripts}
 
 ![](typewriter.jpg){#fig-authoring-manuscripts-header-img}
 
