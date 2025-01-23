@@ -14,7 +14,7 @@
     "href": "index.html#overview",
     "title": "Brad Cannell Wiki",
     "section": "Overview",
-    "text": "Overview\nThis Wiki contains SOPs that are really just intended for me. At least for now. Of course, it will be available online to anyone who has the link, but the goal isn’t to write for a broad audience.\n(Add a link here to the section on writing SOPs in Quarto.)",
+    "text": "Overview\nThis Wiki contains SOPs that are really just intended for me. At least for now. Of course, it will be available online to anyone who has the link, but the goal isn’t to write for a broad audience.\nSee 1  Writing SOPs for more information about authoring SOPs with Quarto.",
     "crumbs": [
       "Brad Cannell Wiki"
     ]
@@ -24,7 +24,7 @@
     "href": "sops/writing_sops/writing_sops.html",
     "title": "1  Writing SOPs",
     "section": "",
-    "text": "1.1 Which technology(ies) to use?\n(This section is from SharePoint and can probably be deleted.)\nI wrote this up in a pretty detailed way in the Technologies section of the Authoring SOPs SOP.",
+    "text": "1.1 Which technology(ies) to use?\nI wrote this up in a pretty detailed way in the Technologies section of the Authoring SOPs SOP.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Writing SOPs</span>"
     ]
@@ -34,7 +34,7 @@
     "href": "sops/writing_sops/writing_sops.html#which-technologyies-to-use",
     "title": "1  Writing SOPs",
     "section": "",
-    "text": "1.1.1 Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I’m not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much",
+    "text": "Important\n\n\n\nThis section is from SharePoint and can probably be deleted.\n\n\n\n\n1.1.1 Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I’m not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Writing SOPs</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "sops/writing_sops/writing_sops.html#writing-sops-in-quarto",
     "title": "1  Writing SOPs",
     "section": "1.2 Writing SOPs in Quarto",
-    "text": "1.2 Writing SOPs in Quarto\nAdd a link the page in the Test Quarto book about converting Word documents.",
+    "text": "1.2 Writing SOPs in Quarto\nSee the Test Quarto Book chapter about converting Word documents.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Writing SOPs</span>"
     ]
@@ -186,7 +186,7 @@
     "href": "sops/authoring_manuscripts/authoring_manuscripts.html#links",
     "title": "3  Authoring Manuscripts",
     "section": "3.3 Links",
-    "text": "3.3 Links\nLink to the publications list. (this was a broken link when I moved it over from Sharepoint. I do need to come up with some way of tracking manuscripts, though)",
+    "text": "3.3 Links\nLink to the publications list. (this was a broken link when I moved it over from SharePoint. I do need to come up with some way of tracking manuscripts, though)",
     "crumbs": [
       "Writing",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Authoring Manuscripts</span>"
@@ -197,7 +197,7 @@
     "href": "sops/authoring_manuscripts/authoring_manuscripts.html#when-a-paper-is-published",
     "title": "3  Authoring Manuscripts",
     "section": "3.4 When a paper is published",
-    "text": "3.4 When a paper is published\n(This is copy and paste from SharePoint. It needs to be cleaned up a lot.)\n\nAdd to PaperPile/Zotero.\nUpdate the Publishing and Dissemination Planner board.\n\n\nAdd publication date\nAdd links as attachments\nMove card to the published bucket\n\n\nUpdate Annual goals\nAdd to CV\nAdd paper to LinkedIn Profile\n\n\nYou may want to “friend” all the coauthors before you share below. That way, it is easier to tag them.\nAdd to LinkedIn profile\n\n\nPromote paper on social media\n\n\nCreate a social media post in Canva. Add text to Notes that you can copy and paste (add hashtags)\nShare the post to Instagram business (post) and personal (story)\nShare link to paper on FB business. Add link to the article in comments section. It will be clickable.\nShare post on personal page too.\nShare link to paper on LinkedIn. Add link to the article in comments section. It will be clickable.\nShare link to paper on Twitter. Add link to the article in comments section. It will be clickable.",
+    "text": "3.4 When a paper is published\n\n\n\n\n\n\nImportant\n\n\n\nThis is copy and paste from SharePoint. It needs to be cleaned up a lot.\n\n\n\nAdd to PaperPile/Zotero.\nUpdate the Publishing and Dissemination Planner board.\n\n\nAdd publication date\nAdd links as attachments\nMove card to the published bucket\n\n\nUpdate Annual goals\nAdd to CV\nAdd paper to LinkedIn Profile\n\n\nYou may want to “friend” all the coauthors before you share below. That way, it is easier to tag them.\nAdd to LinkedIn profile\n\n\nPromote paper on social media\n\n\nCreate a social media post in Canva. Add text to Notes that you can copy and paste (add hashtags)\nShare the post to Instagram business (post) and personal (story)\nShare link to paper on FB business. Add link to the article in comments section. It will be clickable.\nShare post on personal page too.\nShare link to paper on LinkedIn. Add link to the article in comments section. It will be clickable.\nShare link to paper on Twitter. Add link to the article in comments section. It will be clickable.",
     "crumbs": [
       "Writing",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Authoring Manuscripts</span>"
