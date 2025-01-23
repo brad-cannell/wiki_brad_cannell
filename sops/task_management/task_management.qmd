@@ -1,6 +1,15 @@
 # Task Management {sec-task-management}
 
-![Task Management Header Image](https://miro.medium.com/v2/resize:fit:1000/1*8G1vA7egoxrL4Bb7RAgnPQ.jpeg){#fig-task-management-header-img}
+```{r}
+#| label: fig-task-management-header-img
+#| echo: false
+#| fig-cap: |
+#|   Header image: Task Management SOP
+#| fig-alt: |
+#|   An decorative image about task management.
+
+knitr::include_graphics("https://miro.medium.com/v2/resize:fit:1000/1*8G1vA7egoxrL4Bb7RAgnPQ.jpeg")
+```
 
 <!--# This SOP was copied from the one I created in SharePoint and is primarily about Planner. It needs a lot of updating. I'm just adding and formatting it for now. I'll come back later to update the content. -->
 

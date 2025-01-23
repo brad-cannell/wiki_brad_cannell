@@ -1,6 +1,15 @@
 # Authoring Manuscripts {sec-authoring-manuscripts}
 
-![](typewriter.jpg){#fig-authoring-manuscripts-header-img}
+```{r}
+#| label: fig-authoring-manuscripts-header-img
+#| echo: false
+#| fig-cap: |
+#|   Header image: Authoring manuscripts SOP.
+#| fig-alt: |
+#|   An image of a typewriter.
+
+knitr::include_graphics("typewriter.jpg")
+```
 
 ## Overview
 

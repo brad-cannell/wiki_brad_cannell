@@ -1,6 +1,15 @@
 # Writing SOPs {sec-writing-sops}
 
-![SOP Header Image](sop.png){#fig-sop-header-img}
+```{r}
+#| label: fig-writing-sops-header-img
+#| echo: false
+#| fig-cap: |
+#|   Header image: Writing SOPs SOP
+#| fig-alt: |
+#|   An decorative image about SOPs.
+
+knitr::include_graphics("sops/writing_sops/sop.png")
+```
 
 ## Which technology(ies) to use?
 
@@ -22,4 +31,5 @@ I wrote this up in a pretty detailed way in the Technologies section of the [Aut
 
 ## Writing SOPs in Quarto
 
-<!-- Add a link the page in the Test Quarto book about converting Word docuemnts -->
+Add a link the page in the Test Quarto book about converting Word documents.
+

@@ -2,7 +2,16 @@
 title: "Brad Cannell Wiki"
 ---
 
-![](sops/writing_sops/sop.png){#fig-sop-header-img}
+```{r}
+#| label: fig-sop-header-img
+#| echo: false
+#| fig-cap: |
+#|   Header image: Index.
+#| fig-alt: |
+#|   An decorative image about SOPs.
+
+knitr::include_graphics("sops/writing_sops/sop.png")
+```
 
 ## Overview
 
