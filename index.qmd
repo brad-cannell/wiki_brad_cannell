@@ -1,6 +1,4 @@
----
-title: "Brad Cannell Wiki"
----
+# Brad Cannell Wiki {.unnumbered}
 
 ```{r}
 #| label: fig-sop-header-img

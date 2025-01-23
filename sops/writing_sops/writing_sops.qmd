@@ -8,7 +8,7 @@
 #| fig-alt: |
 #|   An decorative image about SOPs.
 
-knitr::include_graphics("sops/writing_sops/sop.png")
+knitr::include_graphics("sop.png")
 ```
 
 ## Which technology(ies) to use?
