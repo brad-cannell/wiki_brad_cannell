@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>task_management – Brad Cannell's Wiki</title>
+<title>Brad Cannell Wiki – 3&nbsp; Task Management</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,21 +30,24 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../sops/authoring_manuscripts/authoring_manuscripts.html" rel="next">
+<link href="../../sops/writing_sops/writing_sops.html" rel="prev">
+<link href="../../r4epi_favicon.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
+  "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
+  "panel-placement": "start",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -68,72 +71,137 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Brad Cannell’s Wiki</span>
-    </a>
-  </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../../sops/task_management/task_management.html" aria-current="page"> 
-<span class="menu-text">Task Management</span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-</div>
-      </div> <!-- /container-fluid -->
-    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../sops/task_management/task_management.html">Software</a></li><li class="breadcrumb-item"><a href="../../sops/task_management/task_management.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Task Management</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../../">Brad Cannell Wiki</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/brad-cannell/wiki_brad_cannell" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="../../Brad-Cannell-Wiki.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Brad Cannell Wiki</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../sops/writing_sops/writing_sops.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Writing SOPs</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Software</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../sops/task_management/task_management.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Task Management</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Writing</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../sops/authoring_manuscripts/authoring_manuscripts.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Authoring Manuscripts</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#useful-links" id="toc-useful-links" class="nav-link" data-scroll-target="#useful-links">Useful links</a></li>
-  <li><a href="#current-process" id="toc-current-process" class="nav-link" data-scroll-target="#current-process">Current process</a></li>
-  <li><a href="#due-dates" id="toc-due-dates" class="nav-link" data-scroll-target="#due-dates">Due dates</a></li>
-  <li><a href="#which-plan-in-planner-should-i-use" id="toc-which-plan-in-planner-should-i-use" class="nav-link" data-scroll-target="#which-plan-in-planner-should-i-use">Which plan in planner should I use?</a></li>
-  <li><a href="#the-inbox-bucket" id="toc-the-inbox-bucket" class="nav-link" data-scroll-target="#the-inbox-bucket">The inbox bucket</a>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">3.1</span> Overview</a></li>
+  <li><a href="#useful-links" id="toc-useful-links" class="nav-link" data-scroll-target="#useful-links"><span class="header-section-number">3.2</span> Useful links</a></li>
+  <li><a href="#current-process" id="toc-current-process" class="nav-link" data-scroll-target="#current-process"><span class="header-section-number">3.3</span> Current process</a></li>
+  <li><a href="#due-dates" id="toc-due-dates" class="nav-link" data-scroll-target="#due-dates"><span class="header-section-number">3.4</span> Due dates</a></li>
+  <li><a href="#which-plan-in-planner-should-i-use" id="toc-which-plan-in-planner-should-i-use" class="nav-link" data-scroll-target="#which-plan-in-planner-should-i-use"><span class="header-section-number">3.5</span> Which plan in planner should I use?</a></li>
+  <li><a href="#the-inbox-bucket" id="toc-the-inbox-bucket" class="nav-link" data-scroll-target="#the-inbox-bucket"><span class="header-section-number">3.6</span> The inbox bucket</a>
   <ul class="collapse">
-  <li><a href="#planner-notifications" id="toc-planner-notifications" class="nav-link" data-scroll-target="#planner-notifications">Planner notifications</a></li>
+  <li><a href="#planner-notifications" id="toc-planner-notifications" class="nav-link" data-scroll-target="#planner-notifications"><span class="header-section-number">3.6.1</span> Planner notifications</a></li>
   </ul></li>
-  <li><a href="#copy-a-plan" id="toc-copy-a-plan" class="nav-link" data-scroll-target="#copy-a-plan">Copy a plan</a></li>
-  <li><a href="#other-thoughts" id="toc-other-thoughts" class="nav-link" data-scroll-target="#other-thoughts">Other thoughts</a></li>
+  <li><a href="#copy-a-plan" id="toc-copy-a-plan" class="nav-link" data-scroll-target="#copy-a-plan"><span class="header-section-number">3.7</span> Copy a plan</a></li>
+  <li><a href="#other-thoughts" id="toc-other-thoughts" class="nav-link" data-scroll-target="#other-thoughts"><span class="header-section-number">3.8</span> Other thoughts</a></li>
+  <li><a href="#use-clickup-or-teams" id="toc-use-clickup-or-teams" class="nav-link" data-scroll-target="#use-clickup-or-teams"><span class="header-section-number">3.9</span> Use ClickUp or Teams?</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/brad-cannell/wiki_brad_cannell/edit/main/sops/task_management/task_management.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brad-cannell/wiki_brad_cannell/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../sops/task_management/task_management.html">Software</a></li><li class="breadcrumb-item"><a href="../../sops/task_management/task_management.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Task Management</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Task Management</span></h1>
+</div>
 
 
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <div id="fig-task-management-header-img" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -142,13 +210,13 @@ ul.task-list li input[type="checkbox"] {
 <img src="https://miro.medium.com/v2/resize:fit:1000/1*8G1vA7egoxrL4Bb7RAgnPQ.jpeg" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-task-management-header-img-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Task Management Header Image
+Figure&nbsp;3.1: Task Management Header Image
 </figcaption>
 </figure>
 </div>
 <!--# This SOP was copied from the one I created in SharePoint and is primarily about Planner. It needs a lot of updating. I'm just adding and formatting it for now. I'll come back later to update the content. -->
-<section id="overview" class="level1">
-<h1>Overview</h1>
+<section id="overview" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">3.1</span> Overview</h2>
 <p>My task management software is some of the most important software I use. Some of the reasons I use task management software in the first place are:</p>
 <ol type="1">
 <li><p>To make sure things to slip through the cracks.</p></li>
@@ -157,14 +225,14 @@ Figure&nbsp;1: Task Management Header Image
 </ol>
 <p>For a task management system to accomplish the goals above – particularly Item 3 – it is important to use the technology in a <em>consistent, systematic</em> way. This SOP is intended to help with that.</p>
 </section>
-<section id="useful-links" class="level1">
-<h1>Useful links</h1>
+<section id="useful-links" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="useful-links"><span class="header-section-number">3.2</span> Useful links</h2>
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/12lsQk85PPPy6wWbEOxRBsLxMuWb6MLbiVlSMsH78wv0/edit?gid=1837919921#gid=1837919921">Software comparison spreadsheet</a>.</li>
 </ul>
 </section>
-<section id="current-process" class="level1">
-<h1>Current process</h1>
+<section id="current-process" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="current-process"><span class="header-section-number">3.3</span> Current process</h2>
 <p>Tasks and goals</p>
 <ul>
 <li><p>Currently, I have tasks and goals spread across SharePoint, Planner, and Apple Notes.</p></li>
@@ -176,8 +244,8 @@ Figure&nbsp;1: Task Management Header Image
 <li><p>I need to figure this out and make some rules when I have the brain power for it.</p></li>
 </ul>
 </section>
-<section id="due-dates" class="level1">
-<h1>Due dates</h1>
+<section id="due-dates" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="due-dates"><span class="header-section-number">3.4</span> Due dates</h2>
 <p>Originally, I had plan for how to use due dates that involved the buckets feature. In theory, I really like this plan. In reality, what has ended up happening is that I assign due dates to almost every task. Due dates then essentially function as reminder dates. When a task does have a hard due date, I write it down in the notes section of the task.</p>
 <p>I’m playing with this and think I want to add it. When a task is in the “🗓 Tasks With Due Dates” bucket, a due date is an actual due date. When a task is in the “👨‍💻WIP - No Due Date” or “🔜NEXT - No Due Date” buckets, the due date is simply my internal target date.</p>
 <p>I’m keeping a record of the old system here because I think it is worth thinking more about and or trying again at some point in the future.</p>
@@ -199,8 +267,8 @@ Figure&nbsp;1: Task Management Header Image
 </ul></li>
 </ul>
 </section>
-<section id="which-plan-in-planner-should-i-use" class="level1">
-<h1>Which plan in planner should I use?</h1>
+<section id="which-plan-in-planner-should-i-use" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="which-plan-in-planner-should-i-use"><span class="header-section-number">3.5</span> Which plan in planner should I use?</h2>
 <ul>
 <li><p>For example, I have a task to create a PowerPoint presentation outlining the issues with the current dissertation committee arrangement. I could put that in the task list for the academic council team or I could put it in my SPH Cannell Private task list.</p></li>
 <li><p>The easiest thing to manage is putting all tasks in one list – SPH Cannell Private.</p></li>
@@ -209,20 +277,20 @@ Figure&nbsp;1: Task Management Header Image
 <li><p>If others do need to see it, then put it in both SPH Cannell Tasks and the other task list, and label it with “Multi-list”.</p></li>
 </ul>
 </section>
-<section id="the-inbox-bucket" class="level1">
-<h1>The inbox bucket</h1>
+<section id="the-inbox-bucket" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="the-inbox-bucket"><span class="header-section-number">3.6</span> The inbox bucket</h2>
 <p>My intention was for the “inbox” bucket to be a place to jot things down really quickly if we are in a rush, but not to keep them there long-term. When we have time, I think we should organize the inbox tasks into one of the other, more informative buckets. Does that work for you?</p>
-<section id="planner-notifications" class="level2">
-<h2 class="anchored" data-anchor-id="planner-notifications">Planner notifications</h2>
+<section id="planner-notifications" class="level3" data-number="3.6.1">
+<h3 data-number="3.6.1" class="anchored" data-anchor-id="planner-notifications"><span class="header-section-number">3.6.1</span> Planner notifications</h3>
 <p>If you haven’t already done so, will you please turn on notifications for planner? <a href="https://support.microsoft.com/en-us/office/manage-planner-notifications-f6a32f83-058d-4f39-988d-8a2e932820ec">Here is a link with information on how to adjust planner notifications</a>. The idea is that we can type comments related to tasks to each other directly in planner. With notifications on, the comments will be emailed to you as well.</p>
 </section>
 </section>
-<section id="copy-a-plan" class="level1">
-<h1>Copy a plan</h1>
+<section id="copy-a-plan" class="level2" data-number="3.7">
+<h2 data-number="3.7" class="anchored" data-anchor-id="copy-a-plan"><span class="header-section-number">3.7</span> Copy a plan</h2>
 <p>I haven’t tried <a href="https://support.microsoft.com/en-us/office/copy-a-plan-50401e13-a25f-40df-93c6-b608cc28c3d4">this</a> yet, but it looks promising. Thinking about my advising site, I could create a template plan that includes tasks for students (e.g., student evaluations). Then, I could copy that plan once for each new student. I may even be able to get power automate to help.</p>
 </section>
-<section id="other-thoughts" class="level1">
-<h1>Other thoughts</h1>
+<section id="other-thoughts" class="level2" data-number="3.8">
+<h2 data-number="3.8" class="anchored" data-anchor-id="other-thoughts"><span class="header-section-number">3.8</span> Other thoughts</h2>
 <p>Perhaps put all of this into a table or some other format that is easier to read?</p>
 <ul>
 <li><p>Replacing the Plan for today note I have in ClickUp with Teams</p>
@@ -261,6 +329,11 @@ Figure&nbsp;1: Task Management Header Image
 <li>Sort of. It looks like I can import bulk task lists with Excel and Power Automate?</li>
 </ul></li>
 </ul>
+</section>
+<section id="use-clickup-or-teams" class="level2" data-number="3.9">
+<h2 data-number="3.9" class="anchored" data-anchor-id="use-clickup-or-teams"><span class="header-section-number">3.9</span> Use ClickUp or Teams?</h2>
+<p>(This is from SharePoint and can probably be deleted.)</p>
+<p>I think Teams is going to be the way to go for working with other people at UTHealth - even for research. The only downside, really, is that it isn’t transportable if I leave UTHealth. I need to get over that, though. First of all, I might not ever leave UTHealth. Second, even if I do, I can take all the files with me pretty easily by copying them over to Dropbox in finder. The only thing I might lose are posts and tasks, which are relatively easy to re-create.</p>
 
 
 </section>
@@ -348,6 +421,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -458,6 +533,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -683,7 +759,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../sops/writing_sops/writing_sops.html" class="pagination-link" aria-label="Writing SOPs">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Writing SOPs</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../../sops/authoring_manuscripts/authoring_manuscripts.html" class="pagination-link" aria-label="Authoring Manuscripts">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Authoring Manuscripts</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Brad Cannell Wiki</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/brad-cannell/wiki_brad_cannell/edit/main/sops/task_management/task_management.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/brad-cannell/wiki_brad_cannell/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This book was built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
 
 
 

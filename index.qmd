@@ -1,18 +1,11 @@
 ---
-title: "Brad Cannell's Wiki"
+title: "Brad Cannell Wiki"
 ---
 
-One of the first things I'll need to do to create this Wiki is convert some of my old Word document files to markdown. Melissa Van Bussel has a [video](https://www.youtube.com/@ggnot2) from Posit::conf(2023) with some tips for doing this, includiing using `rmarkdown::pandoc_convert()`.
+![](sops/writing_sops/sop.png){#fig-sop-header-img}
 
-```{r}
-#| eval: false
+## Overview
 
-rmarkdown::pandoc_convert(
-  '/Users/bradcannell/Desktop/My Personal SOP.docx', 
-  to = 'markdown',
-  output = here::here("sops", "my_personal_sop.qmd")
-)
-```
+This Wiki contains SOPs that are really just intended for me. At least for now. Of course, it will be available online to anyone who has the link, but the goal isn't to write for a broad audience. 
 
-I still need to do a little bit of manual cleaning afterward, but not too bad.
-
+(Add a link here to the section on writing SOPs in Quarto.)

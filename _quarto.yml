@@ -1,21 +1,62 @@
 project:
-  type: website
+  type: book
+  output-dir: _book
 
-website:
-  title: "Brad Cannell's Wiki"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: sops/task_management/task_management.qmd
-        text: Task Management
-
+# Book formatting types and options
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: 
+      - cosmo
+      - r4epi_styles.scss
+  pdf:
+    documentclass: scrreprt
+    
+# Bibliography and citation options
+bibliography: references.bib
+csl: ama.csl
 
+# Set editor to default to source view instead of visual view
+editor: source
 
+# Book structure and options
+book:
+  # Basic metadata
+  title: "Brad Cannell Wiki"
+  date: today
+  favicon: r4epi_favicon.png
+  site-url: https://brad-cannell.github.io/wiki_brad_cannell/
+  repo-url: https://github.com/brad-cannell/wiki_brad_cannell
+  repo-actions: [edit, issue]
+  page-footer: 
+    left: |
+      Brad Cannell Wiki
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  
+  # Book options
+  search: true
+  downloads: [pdf] # https://quarto.org/docs/books/book-output.html#sidebar-tools
+  page-navigation: true # Haven't played with this much yet. https://quarto.org/docs/books/book-structure.html#page-navigation
+
+  # Chapter sturcture
+  # https://quarto.org/docs/books/book-structure.html
+  chapters:
+    # Index is the landing page for the HTML version of the book.
+    - index.qmd
+    - sops/writing_sops/writing_sops.qmd
+    
+    # Parts can be qmd files (if you want explanitory text) or characater strings
+    # if you only want a part title. The separate qmd document method does not 
+    # look good in pdf format.
+    - part: "Software"
+      chapters: 
+        - sops/task_management/task_management.qmd
+      
+    - part: "Writing"
+      chapters:
+        - sops/authoring_manuscripts/authoring_manuscripts.qmd
+  
+  # We can also add appendices and track them separately from other book parts.  
+  # appendices:
+  #   - chapters/appendices/glossary.qmd
 

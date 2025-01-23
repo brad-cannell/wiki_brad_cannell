@@ -1,0 +1,196 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brad Cannell Wiki",
+    "section": "",
+    "text": "0.1 Overview\nThis Wiki contains SOPs that are really just intended for me. At least for now. Of course, it will be available online to anyone who has the link, but the goal isn’t to write for a broad audience.\n(Add a link here to the section on writing SOPs in Quarto.)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Brad Cannell Wiki</span>"
+    ]
+  },
+  {
+    "objectID": "sops/writing_sops/writing_sops.html",
+    "href": "sops/writing_sops/writing_sops.html",
+    "title": "2  Writing SOPs",
+    "section": "",
+    "text": "2.1 Which technology(ies) to use?\n(This section is from SharePoint and can probably be deleted.)\nI wrote this up in a pretty detailed way in the Technologies section of the Authoring SOPs SOP.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Writing SOPs</span>"
+    ]
+  },
+  {
+    "objectID": "sops/writing_sops/writing_sops.html#which-technologyies-to-use",
+    "href": "sops/writing_sops/writing_sops.html#which-technologyies-to-use",
+    "title": "2  Writing SOPs",
+    "section": "",
+    "text": "2.1.1 Bottom line\n\nUse Word for\n\nfiles that need to be shared broadly with others. Especially if those others are outside of UTHealth. For example, manuscripts, grants, and documents for my classes.\nDocuments that need citations. I’m not aware of a citation manager that works with OneNote. For example, manuscripts and grants.\n\nUse OneNote for\n\nNot much",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Writing SOPs</span>"
+    ]
+  },
+  {
+    "objectID": "sops/writing_sops/writing_sops.html#writing-sops-in-quarto",
+    "href": "sops/writing_sops/writing_sops.html#writing-sops-in-quarto",
+    "title": "2  Writing SOPs",
+    "section": "2.2 Writing SOPs in Quarto",
+    "text": "2.2 Writing SOPs in Quarto",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Writing SOPs</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html",
+    "href": "sops/task_management/task_management.html",
+    "title": "3  Task Management",
+    "section": "",
+    "text": "3.1 Overview\nMy task management software is some of the most important software I use. Some of the reasons I use task management software in the first place are:\nFor a task management system to accomplish the goals above – particularly Item 3 – it is important to use the technology in a consistent, systematic way. This SOP is intended to help with that.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#overview",
+    "href": "sops/task_management/task_management.html#overview",
+    "title": "3  Task Management",
+    "section": "",
+    "text": "To make sure things to slip through the cracks.\nTo get a sense of where my projects stand. It should be relatively easy to quickly scan my tasks and get a sense of what needs to be done and by when.\nReduce cognitive load. In other words, spend my mental energy doing things instead of remembering what needs to be done.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#useful-links",
+    "href": "sops/task_management/task_management.html#useful-links",
+    "title": "3  Task Management",
+    "section": "3.2 Useful links",
+    "text": "3.2 Useful links\n\nSoftware comparison spreadsheet.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#current-process",
+    "href": "sops/task_management/task_management.html#current-process",
+    "title": "3  Task Management",
+    "section": "3.3 Current process",
+    "text": "3.3 Current process\nTasks and goals\n\nCurrently, I have tasks and goals spread across SharePoint, Planner, and Apple Notes.\nI appreciate being able to put details and links in Planner.\nI appreciate the ability to cut through the clutter of Planner in SharePoint.\nI appreciate the ability to add narrative to SharePoint and Apple Notes.\nI appreciate the simplicity, ease of use, and offline capabilities of Apple Notes.\nThe best solution may indeed be to use all three. However, I think I will feel better if I have clear guidelines that delineate their roles.\nI need to figure this out and make some rules when I have the brain power for it.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#due-dates",
+    "href": "sops/task_management/task_management.html#due-dates",
+    "title": "3  Task Management",
+    "section": "3.4 Due dates",
+    "text": "3.4 Due dates\nOriginally, I had plan for how to use due dates that involved the buckets feature. In theory, I really like this plan. In reality, what has ended up happening is that I assign due dates to almost every task. Due dates then essentially function as reminder dates. When a task does have a hard due date, I write it down in the notes section of the task.\nI’m playing with this and think I want to add it. When a task is in the “🗓 Tasks With Due Dates” bucket, a due date is an actual due date. When a task is in the “👨‍💻WIP - No Due Date” or “🔜NEXT - No Due Date” buckets, the due date is simply my internal target date.\nI’m keeping a record of the old system here because I think it is worth thinking more about and or trying again at some point in the future.\n\nIf a task has a hard due date\n\nAdd it to the Tasks with Due Dates bucket and fill in the due date field\nSort the Tasks with Due Dates bucket in Descending order (most distal tasks at the top of the column). Do this for at least the following reasons:\n\nMany tasks are first created in the Inbox bucket. When you use the drop down selector to move it to the Tasks with Due Dates bucket, it is placed at the top of the bucket. Moving many tasks to the bottom of the column (which is what we would have to do if we sorted in ascending order) takes a ton of time.\nSorting in this way forces you to look over tasks with due dates out in the future as you are scanning for tasks due today. That makes you less likely to forget about them.\n\n\nIf a task doesn’t have a hard due date\n\nAdd it to the WIP or Next bucket.\nFor now, use the due date field as a “reminder” date. In the future, we can probably create a reminder that is sent out every X number of days from the creation date.\nUpdate the due date field as the date comes and passes.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#which-plan-in-planner-should-i-use",
+    "href": "sops/task_management/task_management.html#which-plan-in-planner-should-i-use",
+    "title": "3  Task Management",
+    "section": "3.5 Which plan in planner should I use?",
+    "text": "3.5 Which plan in planner should I use?\n\nFor example, I have a task to create a PowerPoint presentation outlining the issues with the current dissertation committee arrangement. I could put that in the task list for the academic council team or I could put it in my SPH Cannell Private task list.\nThe easiest thing to manage is putting all tasks in one list – SPH Cannell Private.\nHowever, sometimes other people need visibility of my tasks in the same way that I need visibility or their tasks.\nTherefore, if others don’t need to see it, then just keep it in SPH Cannell Tasks.\nIf others do need to see it, then put it in both SPH Cannell Tasks and the other task list, and label it with “Multi-list”.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#the-inbox-bucket",
+    "href": "sops/task_management/task_management.html#the-inbox-bucket",
+    "title": "3  Task Management",
+    "section": "3.6 The inbox bucket",
+    "text": "3.6 The inbox bucket\nMy intention was for the “inbox” bucket to be a place to jot things down really quickly if we are in a rush, but not to keep them there long-term. When we have time, I think we should organize the inbox tasks into one of the other, more informative buckets. Does that work for you?\n\n3.6.1 Planner notifications\nIf you haven’t already done so, will you please turn on notifications for planner? Here is a link with information on how to adjust planner notifications. The idea is that we can type comments related to tasks to each other directly in planner. With notifications on, the comments will be emailed to you as well.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#copy-a-plan",
+    "href": "sops/task_management/task_management.html#copy-a-plan",
+    "title": "3  Task Management",
+    "section": "3.7 Copy a plan",
+    "text": "3.7 Copy a plan\nI haven’t tried this yet, but it looks promising. Thinking about my advising site, I could create a template plan that includes tasks for students (e.g., student evaluations). Then, I could copy that plan once for each new student. I may even be able to get power automate to help.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#other-thoughts",
+    "href": "sops/task_management/task_management.html#other-thoughts",
+    "title": "3  Task Management",
+    "section": "3.8 Other thoughts",
+    "text": "3.8 Other thoughts\nPerhaps put all of this into a table or some other format that is easier to read?\n\nReplacing the Plan for today note I have in ClickUp with Teams\n\nI haven’t found a good way to do this yet. Planner and todo don’t allow free text. I can create a note in my Team, but it won’t have a checklist. OneNote sort of has checklists, but they are weak!\nFor now, I’m just using Apple Notes for my plan for today. They do everything I want and I can access them on my computer or my phone.\n\nCan you set task reminders in Teams (similar to ClickUp)?\n\nThe point of this is to get a reminder on a certain date without setting a “due date”. That allows you to save the due date field for actual due dates.\nNot really. But, you can create reminders and tasks from posts. Actually, you may be able to do it with power automate.\n\nCan you set recurring tasks in Teams?\n\nYes, but you have to use power automate.\nIn a pinch, you can also just manually change the date to the next month.\n\nCan I see all tasks in Teams or projects?\n\nYes! In teams, click on the three horizontal dots, then click “Tasks by Planner and To Do”\nI cannot see all tasks assigned to one of my students unless they all happen to be assigned in one channel. Then, I can just filter. Another hacky way to see them all in Tasks by Planner and To Do is to jointly assign all tasks to my students and to myself.\nThe tasks in the “Tasks” list, under My tasks To Do in Tasks by Planner and To Do comes from the “To Do” app accessible from Outlook. I can imagine using this list similarly to how I use plan for today in ClickUp.\nIn the planner app, I can also see all tasks assigned to me by clicking “Assigned to me” on the left sidebar menu.\n\nCan I make personal/overview task list like I do in ClickUp.\n\nYes, I could either create an overview Team or Channel.\nInstead of thinking about the Brad Cannell task list as a place to view all tasks like Overview in ClickUp, maybe just think of it as a place to put tasks that don’t fit anywhere else. Think The planner homepage as being more like the overview page in ClickUp.\n\nCan tasks be assigned to more than one task list/plans?\n\nI don’t think so. I’m not sure this is really a problem though.\n\nCan I create task templates?\n\nSort of. It looks like I can import bulk task lists with Excel and Power Automate?",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/task_management/task_management.html#use-clickup-or-teams",
+    "href": "sops/task_management/task_management.html#use-clickup-or-teams",
+    "title": "3  Task Management",
+    "section": "3.9 Use ClickUp or Teams?",
+    "text": "3.9 Use ClickUp or Teams?\n(This is from SharePoint and can probably be deleted.)\nI think Teams is going to be the way to go for working with other people at UTHealth - even for research. The only downside, really, is that it isn’t transportable if I leave UTHealth. I need to get over that, though. First of all, I might not ever leave UTHealth. Second, even if I do, I can take all the files with me pretty easily by copying them over to Dropbox in finder. The only thing I might lose are posts and tasks, which are relatively easy to re-create.",
+    "crumbs": [
+      "Software",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Task Management</span>"
+    ]
+  },
+  {
+    "objectID": "sops/authoring_manuscripts/authoring_manuscripts.html",
+    "href": "sops/authoring_manuscripts/authoring_manuscripts.html",
+    "title": "4  Authoring Manuscripts",
+    "section": "",
+    "text": "4.1 Overview\nThis needs to be improved a lot. Just trying to get it moved over from OneNote right now. Eventually, I should add some stuff about using versioning instead of multiple documents.",
+    "crumbs": [
+      "Writing",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Authoring Manuscripts</span>"
+    ]
+  },
+  {
+    "objectID": "sops/authoring_manuscripts/authoring_manuscripts.html#deep-work",
+    "href": "sops/authoring_manuscripts/authoring_manuscripts.html#deep-work",
+    "title": "4  Authoring Manuscripts",
+    "section": "4.2 Deep work",
+    "text": "4.2 Deep work\n2023-12-19: I was listenting to Deep Work this morning in the car. He was talking about all the reasons why a lot of authors (like Malcolm Gladwell) don’t use social media much. It got me thinking that publishing my papers on social media is probably a low-yield return activity. Perhaps I should just switch to managing a single webpage or my LinkedIn profile.",
+    "crumbs": [
+      "Writing",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Authoring Manuscripts</span>"
+    ]
+  },
+  {
+    "objectID": "sops/authoring_manuscripts/authoring_manuscripts.html#links",
+    "href": "sops/authoring_manuscripts/authoring_manuscripts.html#links",
+    "title": "4  Authoring Manuscripts",
+    "section": "4.3 Links",
+    "text": "4.3 Links\nLink to the publications list. (this was a broken link when I moved it over from Sharepoint. I do need to come up with some way of tracking manuscripts, though)",
+    "crumbs": [
+      "Writing",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Authoring Manuscripts</span>"
+    ]
+  },
+  {
+    "objectID": "sops/authoring_manuscripts/authoring_manuscripts.html#when-a-paper-is-published",
+    "href": "sops/authoring_manuscripts/authoring_manuscripts.html#when-a-paper-is-published",
+    "title": "4  Authoring Manuscripts",
+    "section": "4.4 When a paper is published",
+    "text": "4.4 When a paper is published\n(This is copy and paste from SharePoint. It needs to be cleaned up a lot.)\n\nAdd to PaperPile/Zotero.\nUpdate the Publishing and Dissemination Planner board.\n\n\nAdd publication date\nAdd links as attachments\nMove card to the published bucket\n\n\nUpdate Annual goals\nAdd to CV\nAdd paper to LinkedIn Profile\n\n\nYou may want to “friend” all the coauthors before you share below. That way, it is easier to tag them.\nAdd to LinkedIn profile\n\n\nPromote paper on social media\n\n\nCreate a social media post in Canva. Add text to Notes that you can copy and paste (add hashtags)\nShare the post to Instagram business (post) and personal (story)\nShare link to paper on FB business. Add link to the article in comments section. It will be clickable.\nShare post on personal page too.\nShare link to paper on LinkedIn. Add link to the article in comments section. It will be clickable.\nShare link to paper on Twitter. Add link to the article in comments section. It will be clickable.",
+    "crumbs": [
+      "Writing",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Authoring Manuscripts</span>"
+    ]
+  }
+]

@@ -1,8 +1,10 @@
+# Task Management
+
 ![Task Management Header Image](https://miro.medium.com/v2/resize:fit:1000/1*8G1vA7egoxrL4Bb7RAgnPQ.jpeg){#fig-task-management-header-img}
 
 <!--# This SOP was copied from the one I created in SharePoint and is primarily about Planner. It needs a lot of updating. I'm just adding and formatting it for now. I'll come back later to update the content. -->
 
-# Overview
+## Overview
 
 My task management software is some of the most important software I use. Some of the reasons I use task management software in the first place are:
 
@@ -14,11 +16,11 @@ My task management software is some of the most important software I use. Some o
 
 For a task management system to accomplish the goals above -- particularly Item 3 -- it is important to use the technology in a *consistent, systematic* way. This SOP is intended to help with that.
 
-# Useful links
+## Useful links
 
 -   [Software comparison spreadsheet](https://docs.google.com/spreadsheets/d/12lsQk85PPPy6wWbEOxRBsLxMuWb6MLbiVlSMsH78wv0/edit?gid=1837919921#gid=1837919921).
 
-# Current process
+## Current process
 
 Tasks and goals
 
@@ -36,7 +38,7 @@ Tasks and goals
 
 -   I need to figure this out and make some rules when I have the brain power for it.
 
-# Due dates
+## Due dates
 
 Originally, I had plan for how to use due dates that involved the buckets feature. In theory, I really like this plan. In reality, what has ended up happening is that I assign due dates to almost every task. Due dates then essentially function as reminder dates. When a task does have a hard due date, I write it down in the notes section of the task.
 
@@ -62,7 +64,7 @@ I'm keeping a record of the old system here because I think it is worth thinking
 
     -   Update the due date field as the date comes and passes.
 
-# Which plan in planner should I use?
+## Which plan in planner should I use?
 
 -   For example, I have a task to create a PowerPoint presentation outlining the issues with the current dissertation committee arrangement. I could put that in the task list for the academic council team or I could put it in my SPH Cannell Private task list.
 
@@ -74,19 +76,19 @@ I'm keeping a record of the old system here because I think it is worth thinking
 
 -   If others do need to see it, then put it in both SPH Cannell Tasks and the other task list, and label it with "Multi-list".
 
-# The inbox bucket
+## The inbox bucket
 
 My intention was for the "inbox" bucket to be a place to jot things down really quickly if we are in a rush, but not to keep them there long-term. When we have time, I think we should organize the inbox tasks into one of the other, more informative buckets. Does that work for you?
 
-## Planner notifications
+### Planner notifications
 
 If you haven't already done so, will you please turn on notifications for planner? [Here is a link with information on how to adjust planner notifications](https://support.microsoft.com/en-us/office/manage-planner-notifications-f6a32f83-058d-4f39-988d-8a2e932820ec). The idea is that we can type comments related to tasks to each other directly in planner. With notifications on, the comments will be emailed to you as well.
 
-# Copy a plan
+## Copy a plan
 
 I haven't tried [this](https://support.microsoft.com/en-us/office/copy-a-plan-50401e13-a25f-40df-93c6-b608cc28c3d4) yet, but it looks promising. Thinking about my advising site, I could create a template plan that includes tasks for students (e.g., student evaluations). Then, I could copy that plan once for each new student. I may even be able to get power automate to help.
 
-# Other thoughts
+## Other thoughts
 
 Perhaps put all of this into a table or some other format that is easier to read?
 
@@ -131,3 +133,9 @@ Perhaps put all of this into a table or some other format that is easier to read
 -   Can I create task templates?
 
     -   Sort of. It looks like I can import bulk task lists with Excel and Power Automate?
+    
+## Use ClickUp or Teams?
+
+(This is from SharePoint and can probably be deleted.)
+
+I think Teams is going to be the way to go for working with other people at UTHealth - even for research. The only downside, really, is that it isn't transportable if I leave UTHealth. I need to get over that, though. First of all, I might not ever leave UTHealth. Second, even if I do, I can take all the files with me pretty easily by copying them over to Dropbox in finder. The only thing I might lose are posts and tasks, which are relatively easy to re-create.
